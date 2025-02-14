@@ -17,7 +17,7 @@ $$
 
 The attached codes allow solving the minimization problem for a cost function \( J \), provided that it is convex.
 
-All the necessary codes should be placed in the same root folder, and the script named `opt_main` should be executed. This script calls the required functions to optimize using the Genetic Algorithm (GA) or the Interior-Point method.
+All the necessary codes should be placed in the same root folder, and the script named `**opt_main**` should be executed. This script calls the required functions to optimize using the Genetic Algorithm (GA) or the Interior-Point method.
 
 ### Description of Each Script
 
@@ -30,7 +30,7 @@ Each script performs different tasks:
 - **`responsePI`**: Calculates the closed-loop parameters that form the cost function \( J \).
 
 ### Used functions
-- To find the self-intersections of the curve we use `selfintersect`, provided by Doug Schwarz. On the Matlab File Exchange: https://fr.mathworks.com/matlabcentral/fileexchange/11837-fast-and-robust-curve-intersections 
+- To find the self-intersections of the curve we use `**selfintersect**`, provided by Doug Schwarz. On the Matlab File Exchange: https://fr.mathworks.com/matlabcentral/fileexchange/11837-fast-and-robust-curve-intersections 
 
 ## References
 Author **Julián-Alejandro Hernández-Gallardo** 2025. 
