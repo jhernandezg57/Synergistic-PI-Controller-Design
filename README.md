@@ -35,6 +35,6 @@ Each script performs different tasks:
 ## References
 Autor **Julián-Alejandro Hernández-Gallardo** 2025. 
 
-Please cite one of my works if you are using this algorithm.
+If you are utilizing this algorithm, please cite one of my publications.
 
 <https://scholar.google.com/citations?user=ru2cJxEAAAAJ&hl=es&oi=ao>
