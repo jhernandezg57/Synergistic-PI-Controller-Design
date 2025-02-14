@@ -30,7 +30,7 @@ Each script performs different tasks:
 - **`responsePI`**: Calculates the closed-loop parameters that form the cost function \( J \).
 
 ### Used functions
-- To find the self-intersections of the curve we use selfintersections, provided by Doug Schwarz. On the Matlab File Exchange: https://fr.mathworks.com/matlabcentral/fileexchange/11837-fast-and-robust-curve-intersections 
+- To find the self-intersections of the curve we use `selfintersect`, provided by Doug Schwarz. On the Matlab File Exchange: https://fr.mathworks.com/matlabcentral/fileexchange/11837-fast-and-robust-curve-intersections 
 
 ## References
 Author **Julián-Alejandro Hernández-Gallardo** 2025. 
