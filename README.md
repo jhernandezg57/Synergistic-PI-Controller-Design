@@ -24,12 +24,6 @@ All the necessary codes should be placed in the same root folder, and the script
 Each script performs different tasks:
 
 - **`opt_ga`**: Contains the configurations to optimize using the Genetic Algorithm.
-    tol = 1e-15; % Tolerance
-    nGen = 20; % Number of generations
-    pSize = 200; % Population size
-
-options_GA = optimoptions('ga', 'ConstraintTolerance', tol, 'Generations', nGen, ...
-    'PopulationSize', pSize, 'PlotFcns', @gaplotbestf);
 - **`opt_fmincon`**: Contains the configurations to optimize using the Interior-Point method.
 - **`regions`**: Computes the stability region.
 - **`vertices`**: Finds the vertices of each rectangle used to discretize the stability region.
