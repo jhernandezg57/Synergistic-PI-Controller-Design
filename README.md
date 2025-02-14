@@ -31,3 +31,10 @@ Each script performs different tasks:
 
 ### Used functions
 - To find the self-intersections of the curve we use intersections, provided by Doug Schwarz. On the Matlab File Exchange: https://fr.mathworks.com/matlabcentral/fileexchange/11837-fast-and-robust-curve-intersections 
+
+## References
+Author **Julián-Alejandro Hernández-Gallardo** 2025. 
+
+If you are utilizing this algorithm, please cite one of my publications.
+
+<https://scholar.google.com/citations?user=ru2cJxEAAAAJ&hl=es&oi=ao>
