@@ -19,3 +19,12 @@ The attached codes allow solving the minimization problem for a cost function \(
 
 All the necessary codes should be placed in the same root folder, and the script named `opt_main` should be executed. This script calls the required functions to optimize using the Genetic Algorithm (GA) or the Interior-Point method.
 
+### Description of Each Script
+
+Each script performs different tasks:
+
+- **`opt_ga`**: Contains the configurations to optimize using the Genetic Algorithm.
+- **`opt_fmincon`**: Contains the configurations to optimize using the Interior-Point method.
+- **`regions`**: Computes the stability region.
+- **`vertices`**: Finds the vertices of each rectangle used to discretize the stability region.
+- **`responsePI`**: Calculates the closed-loop parameters that form the cost function \( J \).
