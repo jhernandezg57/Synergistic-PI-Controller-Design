@@ -1,3 +1,7 @@
+% Author Julián-Alejandro Hernández-Gallardo 2025.
+% If you are utilizing this algorithm, please cite one of my publications.
+% https://scholar.google.com/citations?user=ru2cJxEAAAAJ&hl=es&oi=ao
+
 %% Clear workspace
 clc
 clearvars;
