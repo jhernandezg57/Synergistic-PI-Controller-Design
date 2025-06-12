@@ -1,6 +1,5 @@
 ## A Synergistic Approach to PI Controller Design in Linear Time-Delay Systems
 
-[![DOI](https://zenodo.org/badge/923116128.svg)](https://doi.org/10.5281/zenodo.15649843)
 
 ### System Definition
 
@@ -36,6 +35,8 @@ Each script performs different tasks:
 ## References
 Author **Julián-Alejandro Hernández-Gallardo** 2025. 
 
-If you are utilizing this algorithm, please cite one of my publications.
+If you are utilizing this algorithm, please cite [![DOI](https://zenodo.org/badge/923116128.svg)](https://doi.org/10.5281/zenodo.15649843) 
+
+If you are interested in reading any of my other publications
 
 <https://scholar.google.com/citations?user=ru2cJxEAAAAJ&hl=es&oi=ao>
