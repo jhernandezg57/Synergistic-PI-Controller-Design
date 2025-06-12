@@ -1,5 +1,6 @@
 ## A Synergistic Approach to PI Controller Design in Linear Time-Delay Systems
 
+[![DOI](https://zenodo.org/badge/923116128.svg)](https://doi.org/10.5281/zenodo.15649843)
 
 ### System Definition
 
