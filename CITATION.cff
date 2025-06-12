@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hernández-Gallardo"
+  given-names: "Julián-Alejandro"
+  orcid: "https://orcid.org/0000-0001-7833-739X"
+- family-names: "Méndez-Barrios"
+  given-names: "César-Fernando"
+- family-names: "Guel-Cortez"
+  given-names: "Adrian-Josue"
+title: "A Synergistic Approach to PI Controller Design in Linear Time-Delay Systems"
+version: 0.1.0
+doi: 10.5281/zenodo.15649844
+date-released: 2025-06-12
+url: "https://doi.org/10.5281/zenodo.15649844"
